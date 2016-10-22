@@ -1,6 +1,9 @@
 body{
  background: cyan;
 }
+body {
+    padding-top: 70px;
+}
 #1{
 font-size:4000
 }
